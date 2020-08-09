@@ -7,8 +7,8 @@ Maria had requested an school district analysis based on school type, total stud
 ### District Summary
 After removing Thomas High School's students' math and reading scores, we can see that the average math score and average reading score for both charter and district have no impact; the passing percentage for district has no impact as well. However, the passing percentages for charter were affected. The result for charter's passing math percentage has dropped 4% (from 94% to 90%); the passing reading percentage has dropped 4% (from 97% to 93%); the overall passing percentage has dropped 3% (from 90% to 87%).
 Please see Figure 1 and 2 for details:
-![with_t_district.pgn](with_t_district.pgn)
-![without_t_district.pgn](without_t_district.pgn)
+![with_t_district.pgn](Resources/with_t_district.pgn)
+![without_t_district.pgn](Resources/without_t_district.pgn)
 
 ### School Summary:
 The results for the rest 14 schools remain the same in the school summary. The average math score and the average reading score for Thomas High School have dropped less than 0.1%. The major impacts for Thomas High School are passing math percentage, passing reading percentage, and overall passing percentage:
@@ -16,8 +16,8 @@ The results for the rest 14 schools remain the same in the school summary. The a
 - Passing reading percentage has dropped from 97% to 70%
 - Overall passing percentage has dropped from 91% to 65%
 Pleas see Figure 3 and 4 for details:
-![with_t_school.pgn](with_t_school.pgn)
-![without_t_school.pgn](without_t_school.pgn)
+![with_t_school.pgn](Resources/with_t_school.pgn)
+![without_t_school.pgn](Resources/without_t_school.pgn)
 We've set the passing grade to 70, after removing the 9th graders' score result for Thomas High School, we can see that the passing percentage dropped significantly. So that, we can conclude that the 9th graders' scores are the major contributors for Thomas High School's passing rate, which they have received higher scores than other grades in Thomas High School.
 
 ### School Spending / School Size
